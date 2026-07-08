@@ -7,3 +7,5 @@ def greetBlack():
 
 
 print('Hello, everyone')
+greetWhite()
+greetBlack()
